@@ -6,7 +6,8 @@ header{
  }
 
 .first{
-color: red; background-color: antiquewhite; padding: 10px;
+color: red; padding: 10px;
+background-image: url('istockphoto-537331500-612x612.jpg'); background-repeat: no-repeat; background-size: contain;
 }
 .second{
     color: dimgray; background-color: khaki; padding: 5px;
